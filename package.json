@@ -2,7 +2,7 @@
   "name": "conSpanish.js",
   "description": "TJBot conversation recipe spanish",
   "version": "0.0.1",
-  "author": "<clgvg@mx1.ibm.com>",
+  "author": "<ingkenai@gmail.com>",
   "dependencies": {
     "readline-sync": "^1.4.7",
     "tjbot": "latest"
