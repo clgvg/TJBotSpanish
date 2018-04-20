@@ -29,7 +29,7 @@ O si lo prefieren pueden armarlo con su harware actual:
 
 Para mas informacion oficial aqui: https://ibmtjbot.github.io/ 
 
-Si no se cuenta con el hardware y aun asi quieren practicar lo pueden hacer desde el siguiente link: https://my-tjbot.mybluemix.net/ 
+*Si no se cuenta con el hardware y aun asi quieren practicar lo pueden hacer desde el siguiente link: https://my-tjbot.mybluemix.net/ *
 
 
 ### Software: 💿 
